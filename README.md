@@ -50,11 +50,9 @@ Full Stack Developer in training • Automation Enthusiast • Problem Solver
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franson-dev&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franson-dev&layout=compact&theme=dracula"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=franson-dev&show_icons=true&theme=dracula&count_private=true)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=franson-dev&layout=compact&theme=dracula)
 
 ---
 
