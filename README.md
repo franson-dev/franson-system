@@ -59,9 +59,9 @@ Full Stack Developer in training • Automation Enthusiast • Problem Solver
 ## 📬 Contact
 
 <div align="center">
-  <a href="mailto:welintonffranson@gmail.com?subject=Assunto&body=Mensagem"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/welinton-dev-franson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/5511978440963"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:welintonffranson@gmail.com?subject=Assunto&body=Mensagem"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=grey" /></a>
+  <a href="https://www.linkedin.com/in/welinton-dev-franson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=grey" /></a>
+  <a href="https://wa.me/5511978440963"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey" /></a>
 </div>
 
 ---
